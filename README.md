@@ -30,7 +30,7 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 
 ---
 
-## **Test-Cases 📄:**
+## **Test-Cases ✍️:**
 - [account-management/my-profile/edit](https://drive.google.com/file/d/1rln82cGKsRudIKdtsEgenqW9kD-f_IBE/view?usp=drive_link)
 - [account-management/my-profile/edit/steps](https://drive.google.com/file/d/1O9LYYTXTI93ViVUL0njNe3UhkTC7_Qsw/view?usp=drive_link)
 - [adv-tools/EDIT_ACQUISITION_CHANNEL-title](https://drive.google.com/file/d/1-F00Hpz9g4Uvie7_Q2Ld7Qa4VgttpFrC/view?usp=drive_link)
@@ -46,6 +46,6 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - [/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts)
 
 --- 
-## *User-documentation :**
+## **User-documentation 📄:**
 - [Production](https://help.flexbe.ru/basket)
 - [If production will be deleted](https://drive.google.com/drive/folders/1Cvxpuh7URPpnEBIfgCaxoUWySbuu8FNP?usp=drive_link)
