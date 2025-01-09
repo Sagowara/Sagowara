@@ -39,5 +39,8 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - [triggers/dash/EDIT-BUTTON-steps](https://drive.google.com/file/d/1bBzHrX5GX9axEf5JVkMnUngQp4rPo8NV/view?usp=drive_link)
 
 ---
-## **Automated-Tests: ** 
-- [account-management/my-profile/edit](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/myProfile/editProfile.ts)
+## **Automated-Tests :** 
+- [/automated-tests/src/pageObjects/accountManagement/myProfile/editProfile.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/myProfile/editProfile.ts)
+- [/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts)
+- [/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel)
+- [/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts)
