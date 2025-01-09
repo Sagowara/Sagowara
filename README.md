@@ -42,5 +42,7 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 ## **Automated-Tests :** 
 - [/automated-tests/src/pageObjects/accountManagement/myProfile/editProfile.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/myProfile/editProfile.ts)
 - [/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts)
-- [/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel)
+- [/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel.ts)
 - [/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts)
+
+
