@@ -45,4 +45,7 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - [/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel.ts)
 - [/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts)
 
-
+--- 
+## *User-documentation :**
+- [Production](https://help.flexbe.ru/basket)
+- [If production will be deleted](https://drive.google.com/drive/folders/1Cvxpuh7URPpnEBIfgCaxoUWySbuu8FNP?usp=drive_link)
