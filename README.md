@@ -8,7 +8,7 @@ For automation, I’m using **Playwright**.
 ---
 
 ## **My CV:**
-*Ссылка на резюме*
+RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/view?usp=sharing)
 
 ---
 
