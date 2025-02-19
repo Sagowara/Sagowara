@@ -1,0 +1,146 @@
+import { useAppHashMap } from '../../core';
+export const TIMEOUT = 2000;
+
+export const FILTER_SELECTORS = {
+  CHECKBOX: useAppHashMap('@kameleoon/ui/dist/Checkbox/Switch--checkbox'),
+  APPLY_DISABLED: useAppHashMap(
+    '@kameleoon/ui/dist/Button--theme_green_disabled',
+  ),
+  APPLY_GREEN: useAppHashMap(
+    '@kameleoon/modules/dist/Sidebar/ContentFooter--button',
+  ),
+  FILTERS_SIDEBAR: useAppHashMap(
+    '@kameleoon/modules/dist/Sidebar/ContentBody--content-body',
+  ),
+  FILTER_ITEM: useAppHashMap(
+    'src/modules/sidebars/templates/FilterItem--filter-item__label',
+  ),
+  RESET_BUTTON: useAppHashMap(
+    '@kameleoon/modules/dist/Sidebar/FiltersHeader/ResetButton--reset-button',
+  ),
+  SECTION: useAppHashMap(
+    '@kameleoon/modules/dist/Sidebar/Section/Button--button__title',
+  ),
+  CHECKED_CHECKBOX: '_checkbox_checked_grey_yopcj_73',
+};
+
+export const DASHBOARD_SELECTORS = {
+  NOTIFICATION_POPUP: useAppHashMap(
+    '@kameleoon/ui/dist/Notification--notification',
+  ),
+  RETURN_BUTTON: useAppHashMap(
+    '@kameleoon/modules/dist/Page/ResetArchivedButton--button',
+  ),
+  PAGE_TITLE: useAppHashMap('@kameleoon/modules/dist/Page/Title--page-title'),
+  HEADER: useAppHashMap('src/layout/components/Header--header'),
+  ASIDE_MENU: useAppHashMap('src/layout/components/Menu--menu'),
+  HEADER_BUTTON_CONTAINER: useAppHashMap(
+    '@kameleoon/modules/dist/Page/Header--header',
+  ),
+  HEADER_BUTTON: useAppHashMap('@kameleoon/ui/dist/Button--button'),
+  NO_SEARCH_RESULT_BLOCK: useAppHashMap(
+    'src/modules/NoResults/no-results--no-results',
+  ),
+  EDIT_BUTTON: useAppHashMap('@kameleoon/ui/dist/Button--size_m'),
+  SUB_MENU: useAppHashMap('src/modules/ActionMenu/Item--sub-items'),
+  EDIT_EXPERIMENT: useAppHashMap('src/modules/ActionMenu/Item--item__label'),
+  URL_COPY: useAppHashMap(
+    '@kameleoon/modules/dist/Page/CopySubTitle--copy-button',
+  ),
+};
+
+export const POPUP_ROLE: {
+  COMBOBOX: 'combobox';
+  BUTTON: 'button';
+} = {
+  COMBOBOX: 'combobox',
+  BUTTON: 'button',
+};
+
+export const POPUP_SELECTORS = {
+  MESSAGE: useAppHashMap(
+    '@kameleoon/ui/dist/Notification--notification__inner',
+  ),
+  NOTIFICATION_SUCCESS: useAppHashMap(
+    '@kameleoon/ui/dist/NotificationMessage/SuccessIcon--success',
+  ),
+  NOTIFICATION_WARNING: useAppHashMap(
+    '@kameleoon/ui/dist/NotificationMessage/WarningIcon--warning',
+  ),
+  NOTIFICATION_LOADING: useAppHashMap(
+    '@kameleoon/ui/dist/NotificationMessage/LoadingIcon--loading',
+  ),
+  CROSS_BUTTON: useAppHashMap(
+    '@kameleoon/ui/dist/CrossButton/cross-button--cross-button',
+  ),
+  DELETE_BUTTON: useAppHashMap('@kameleoon/ui/dist/Button--theme_red'),
+  NAME_TRIGGER_FIELD: useAppHashMap(
+    '@kameleoon/ui/dist/TextField--textfield__inner',
+  ),
+  SITE_CONTAINER: useAppHashMap(
+    'src/modules/BuilderModal/CreationDialog--container',
+  ),
+  SITE: useAppHashMap('src/modules/AliasOption/aliasOption--option'),
+  TAGS_CONTAINER: useAppHashMap(
+    'src/modules/BuilderModal/CreationDialog--tags-container',
+  ),
+  TAGS_SUBMIT: useAppHashMap(
+    '@kameleoon/ui/dist/Tags/Builder/inputButton--button_submit',
+  ),
+  DESCRIPTION_CONTAINER: useAppHashMap(
+    'src/modules/CreationModal/Description/description--description',
+  ),
+  DESCRIPTION_TITLE: useAppHashMap(
+    'src/modules/CreationModal/Description/description--description__title',
+  ),
+  CONTINUE_BUTTON: useAppHashMap(
+    '@kameleoon/ui/dist/Modal/elemets/group-button--group-button__item',
+  ),
+  CONDITIONS_CONTAINER: useAppHashMap(
+    '@kameleoon/builder-core/dist/modules/Conditions/Group--container__content',
+  ),
+  DEFINITION_CONTAINER_FIELD: useAppHashMap(
+    '@kameleoon/ui/dist/TextField--textfield__control_size_l',
+  ),
+  CHECKBOX: useAppHashMap('@kameleoon/ui/dist/Checkbox/Switch--checkbox'),
+  BOTTOM_BUTTON: useAppHashMap(
+    '@kameleoon/ui/dist/Modal/elemets/Button--button',
+  ),
+  EDIT_BUTTON: useAppHashMap(
+    '@kameleoon/modules/dist/Table/CellControls--controls',
+  ),
+};
+
+export const THREE_DOTS = {
+  SELECTORS: useAppHashMap(
+    '@kameleoon/modules/dist/ActionMenu/Item--item__label',
+  ),
+};
+export const ELEMENT_STATES = {
+  VISIBLE: 'visible' as const,
+};
+
+export enum ThreeDotsMenu {
+  Rename = 'Rename',
+  Duplicate = 'Duplicate',
+  Delete = 'Delete',
+  Select = 'Select',
+}
+export const TEXT_CONSTANTS = {
+  DELETE: 'Delete',
+};
+
+export const TRIGGERS_PLACEHOLDERS = {
+  NAME_YOUR_TRIGGER: 'Name your trigger',
+  WRITE_A_TAG: 'Write a tag',
+  ENTER_YOUR_DESCRIPTION: 'Enter your description',
+};
+
+export const TABLE_CONSTANTS = {
+  TABLE: useAppHashMap('@kameleoon/modules/dist/Table--table'),
+  SPAN_NAME: useAppHashMap('@kameleoon/modules/dist/Table/CellMain--cell'),
+  EDIT_BUTTON: useAppHashMap('@kameleoon/ui/dist/Button--size_m'),
+  GREEN_BUTTON: useAppHashMap('@kameleoon/ui/dist/Button--theme_green'),
+  SPAN_TYPE: useAppHashMap('@kameleoon/modules/dist/Table/Cell--cell'),
+  THREE_DOTS: useAppHashMap('@kameleoon/modules/dist/Table/MoreButton--button'),
+};
