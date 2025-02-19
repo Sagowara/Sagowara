@@ -22,7 +22,7 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - Familiarity with **Postman**, sending **POST** and **GET** requests.
 - Pushing code updates to **Git**.
 - Basic understanding of web development (**HTML**, **TypeScript/JavaScript**).
-- Utilizing **DevTools** for work. Currently, actively studying **Charles theory**.
+- Utilizing **DevTools** for work. 
 - Regression, cross-browser, and smoke testing. Planning to learn load testing.
 - Creating subtasks, tickets, and bug reports in **Redmine**, **Jira**, and **Trello**.
 - Thorough analysis of technical documentation, flowcharts, design layouts in **Figma** for compliance with requirements; sending documentation for revision in case of inaccuracies, bugs, or missing expected/actual behavior descriptions.
