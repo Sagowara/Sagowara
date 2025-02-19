@@ -44,7 +44,8 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - [/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/accountManagement/language/changeLanguage.ts)
 - [/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/advancedTools/dashboard/editAcquisitionChannel.ts)
 - [/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts](https://github.com/Sagowara/Sagowara/blob/main/automated-tests/src/pageObjects/experiment/dashboard/editDashboard.ts)
-
+- [/automated-tests/src/pageObjects/triggers/](https://github.com/Sagowara/Sagowara/tree/main/automated-tests/src/pageObjects/triggers)
+- [/automated-tests/tests/regression/triggers](https://github.com/Sagowara/Sagowara/tree/main/automated-tests/tests/regression/triggers)
 --- 
 ## **User-documentation 📄:**
 - [Production](https://help.flexbe.ru/basket)
