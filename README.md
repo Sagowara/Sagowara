@@ -52,6 +52,6 @@ RU: [Resume](https://drive.google.com/file/d/1SUlXjt-1NHp3AJHCodNXDICFAK9MnJFa/v
 - [If production will be deleted](https://drive.google.com/drive/folders/1Cvxpuh7URPpnEBIfgCaxoUWySbuu8FNP?usp=drive_link)
 
 
-№№ **Just for fun** ## 
+## **Just for fun** ## 
 Sometimes i spend time for learning some PHP :) 
 - [sagowara/monitoring-php/](https://github.com/Sagowara/Sagowara/tree/main/monitoring-php)
